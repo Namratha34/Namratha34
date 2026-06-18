@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([LinkedIn](<a href="https://www.linkedin.com/in/namratha-34-396592389/" target="_blank"></a>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<a href="https://www.linkedin.com/in/namratha-34-396592389/" target="_blank"></a>)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namrathaachar34@gmail.com) 
 
 # 💻 Tech Stack:
